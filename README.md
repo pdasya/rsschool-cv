@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pdasya.github.io/rsschool-cv/cv
