@@ -71,5 +71,11 @@ Implementation project of a music website similar to Spotify. On the website, us
 Technologies used: HTML, SCSS
 
 Link: https://pdasya.github.io/music-box-portal/
-## Education   
+
+## Education
+* 2023 - Master's degree - NUST MISIS, Moscow, Russia - Computational Material Science
+* 2023 - Hexlet.io - Frontend Developer
+
 ## Languages proficiency
+* English - Upper Intermediate B2 - Correspondence in English with partners, reading literature without a dictionary, oral presentations and consultations at exhibitions.
+* Japanese - Beginer A1 - Understanding the meaning of information in advertisements in everyday life Writing about a familiar topic using familiar vocabulary and characters. 
