@@ -15,7 +15,6 @@ Hey everyone! I'm Daria and I'm passionate about frontend development. I have so
 Example of functions ipToInt and intToIp that converts IP-address representation from decimal format with dots into a 32-bit decimal number and vice versa:
 
 import chunk from 'lodash/chunk.js';
-
 export const ipToInt = (ip) => {
   const ipInHex = ip
     .split('.')
@@ -24,7 +23,6 @@ export const ipToInt = (ip) => {
 
   return parseInt(ipInHex, 16);
 };
-
 export const intToIp = (int) => {
   const ipInHex = int.toString(16).padStart(8, 0);
 
