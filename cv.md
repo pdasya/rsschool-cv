@@ -32,7 +32,7 @@ export const intToIp = (int) => {
 };
 
 ## Work experience
-1) Hangman game
+1) **Hangman game**
 
 In the game, you are invited to guess the hidden word by guessing letters one by one. For each incorrect letter, a part of the 'hangman' is drawn, and your task is to guess the word before the drawing is completed. Join us and enjoy playing 'Hangman' right now!
 
@@ -40,7 +40,7 @@ Technologies used: JavaScript, HTML, TailwindCSS, ViteJS
 
 Link: https://pdasya.github.io/hangman-game/
 
-2) Candles store 
+2) **Candles store** 
 
 This website is developed using HTML, SCSS, and JavaScript, and it's also adapted for ease of use on various devices. Our candles and courses are art accessible to everyone, and we look forward to sharing it with you.
 
@@ -48,7 +48,7 @@ Technologies used: JavaScript, HTML, SCSS
 
 Link: https://github.com/pdasya/candles
 
-3) Mind games 
+3) **Mind games** 
 
 "Mind Games" a collection of 5 console mathematical games for brain training: brain-even,
 brain-calc, brain-gcd, brain-progression, brain-prime.
@@ -57,7 +57,7 @@ Technologies used: JavaScript
 
 Link: https://github.com/pdasya/mind-games-project
 
-4) Cognitive bias project
+4) **Cognitive bias project**
 
 The "Cognitive Biases in Programming" project is a study and informational resource dedicated to cognitive biases that newcomers encounter in programming. Cognitive biases are systematic errors in thinking that can lead to incorrect decisions, incorrect conclusions, and stress in the process of learning and software development.
 
@@ -65,7 +65,7 @@ Technologies used: HTML, CSS, SCSS
 
 Link: https://delicious-bell.surge.sh/
 
-5) Music box portal 
+5) **Music box portal**
 
 Implementation project of a music website similar to Spotify. On the website, users can enjoy an endless stream of music from various genres and artists, create their own playlists, share them with friends, and even download tracks for offline listening. The service offers various subscription plans, including free access with ads and a premium subscription with additional features such as downloads and ad-free listening. Our website also has a mobile app compatible with Android and iOS devices, providing the convenience of listening to music anytime, anywhere.
 
