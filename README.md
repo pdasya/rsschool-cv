@@ -1,1 +1,1 @@
-https://pdasya.github.io/rsschool-cv/cv
+https://pdasya.github.io/rsschool-cv/
